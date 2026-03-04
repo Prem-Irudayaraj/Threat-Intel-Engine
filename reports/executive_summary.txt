@@ -1,0 +1,6 @@
+Threat Intelligence Correlation Report
+-------------------------------------
+Total Matches: 3
+Total Risk Score: 270
+Overall Risk Level: CRITICAL
+Generated On: 2026-03-04 15:01:56.872446

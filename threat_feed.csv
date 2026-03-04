@@ -1,0 +1,4 @@
+indicator,type,risk_score
+185.199.110.153,ip,90
+malicious-login.com,domain,85
+e99a18c428cb38d5f260853678922e03,hash,95
